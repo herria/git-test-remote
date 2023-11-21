@@ -10,5 +10,5 @@ func main() {
 
 func Hello() {
 	fmt.Println("KAKAK")
-	fmt.Println("Amerika")
+	fmt.Println("Indonesia")
 }
